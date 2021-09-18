@@ -1,0 +1,21 @@
+Whats is QUEUE?
+
+QUEUE is  a data structure which works on FIFO (First In First Out) OR LILO (Last In Last Out) fashion.
+It means the first entered element will take exit first where as the elementat the last position will exit at last. 
+Its totally similar to our day-to-day life QUEUE which we create at Cinema Theatre to buy the tickets and other places.
+Elements in QUEUE can be added from both the ends and same goes for removal of elements. 
+The front end is called as FRONT and the back end is called as TAIL/REAR.
+The method of inserting element in the QUEUE is called as enqueue where as the method of removing/deleting the element from QUEUEis called as dequeue.
+
+
+
+
+In this program the QUEUE is implemented using list.
+As you already know purpose of append() and pop() from the stack but if not then please first take  alook at it first.
+Here, pop(0) is used to remove the element from the front-side of QUEUE.
+If we fail to do that then it will simply act as the STACK.
+
+We have used insert(0,52) as insert(index value,element value) 
+0 index value shows that we are inserting the element from the front-side of the QUEUE.  
+
+To check the elemnts at front and rear ends in the QUEUE we use index numbers as 0 and -1 respectively.

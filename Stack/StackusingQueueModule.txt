@@ -1,0 +1,10 @@
+Stack could be implmented in 2 ways:
+  1. Manually by defining diff functions
+  2. By using modules 
+      modules
+        1. Collection
+        2. queue
+Here we have implemented the queue module.
+In this, the module name is queue and class name is LifoQueue()
+put() is used as  PUSH function to add/insert the element.
+get() is used as POP function to remove the element.

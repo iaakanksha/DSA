@@ -1,0 +1,12 @@
+Priority Queue is a same thing as of thje Queue but the only difference is that we have to pply some priorities to the elements of the queue.
+Suppose we have a queue as,
+    queue = [10,20,58,79,34,80]
+Now first we have to sort this queue in Ascending/Descending order as per the Priority.
+How to decide the Priority?
+Ans: The answer is very simple first we have to decide that do we have to give highest priority to the highest value from the queue or on total contrary to that we have to give lowest priorityto the lowest value from the queue.
+If we are giving highest priority to the highest value from the queue then we have to sort the queue in DESCENDING order.
+If we are giving lowest priorityto the lowest value from the queue then we have to sort the queue in ASCENDING order.
+
+Tip: After sorting the elements if we use :
+       1. queue.pop() then the highest value from queue has high priority and it will remove first.
+       2. queue.pop(0) then the lowest value from queue has low priority and it will remove first.

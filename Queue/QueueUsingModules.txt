@@ -1,0 +1,17 @@
+Two different module sare used here to demonstarte the QUEUE.
+
+ Module 1:
+  module name=collections & class name = deque 
+
+Since we can add and remove the elements from both front and rear ends.
+   appendleft is used to add elements at front end of the QUEUE.
+   append is used to add elements at rear end of the QUEUE.
+In the similar way,
+   popleft is used to remove elements at front end of the QUEUE.
+   pop is used to remove elements at rear end of the QUEUE.
+
+
+Module 2:
+  module name=queue & class name = Queue
+
+  put() is used to add the elements where as get() is used as remove the elements from the QUEUE.

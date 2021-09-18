@@ -1,0 +1,10 @@
+Stack could be implmented in 2 ways:
+  1. Manually by defining diff functions
+  2. By using modules 
+      modules
+        1. Collection
+        2. Queue
+Here we have implemented the Collection module.
+In this, the module name is Collection and class name is deque()
+append() is used as  PUSH function to add/insert the element.
+pop () is used as POP function to remove the element.

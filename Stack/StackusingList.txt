@@ -1,0 +1,10 @@
+As we all know how stack works on the basis of LIFO (Last In First Out) method. It means the Last inserted element will be removeed first and so on.
+In this fashion by obvious means the first inserted element will be removed at last.
+Here in this program I have created all the posiible operations done on the stack at one place. 
+Traditionally, 3 main operations are done on the stack.
+   1. POP (Remove th element)
+   2. PUSH (Add the element)
+   3. isEmpty (To check whether the stack is empty or not at initial state)
+
+Here for POP & PUSH function we have used POP and APPEND methods respectively.
+Its a menu driven program.
